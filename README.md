@@ -6,7 +6,7 @@ Data analyst
 
 I hone skillsets of SQL, Excel, PowerBI, Tableau and Python for analytics, enabling me to adeptly analyze complex datasets and derive invaluable insights that drive informed business decisions.
 
-* 🌍  I'm based in Mumbai
+* 🌍  I've moved to Dubai to explore job opportunities
 * ✉️  You can contact me at [zkdataprivacy@duck.com](mailto:zkdataprivacy@duck.com)
 * 🧠  I'm learning Data science and more on customizable data privacy tools based on Zero-knowlege proofs.
 * ⚡  I like to uncover and share data based insights on Web2.0 AI driven social media platforms and how they are turning us more lonely, polarized, misinformed & affecting our mental health.
